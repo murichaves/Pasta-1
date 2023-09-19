@@ -51,17 +51,17 @@
     <div class="col-sm-4">
       <h3 style=  "color: #4CAF50">O que é</h3>
       <p>A capivara é um animal mamífero que chama a atenção pelo seu tamanho, sendo considerado o maior roedor do mundo. Trata-se de um animal herbívoro, semiaquático e que vive em grupos.</p><br>
-        <img class="img-fluid" src="/Imagens/capp.jpg" alt="Chania" width="460" height="300">
+        <img class="img-fluid" src="/Imagens/capp.jpg" alt="Chania" width="500" height="400">
     </div>
     <div class="col-sm-4">
       <h3 style=  "color: #4CAF50">Alimenteção</h3>
       <p>As capivaras são animais herbívoros que se alimentam de diferentes vegetais, como capim e vegetação aquática. São considerados animais generalistas.</p><br>
-      <img class="img-fluid" src="/Imagens/ANTA.png" alt="Chania" width="460" height="300">
+      <img class="img-fluid" src="/Imagens/ANTA.png" alt="Chania" width="500" height="400">
     </div>
     <div class="col-sm-4">
       <h3 style=  "color: #4CAF50">Habitat</h3>        
       <p>Capivaras ocorrem na América Central e na América do Sul, sendo observadas desde o sul do Panamá ao nordeste da Argentina, não sendo observadas na Cordilheira dos Andes.</p><br>
-      <img class="img-fluid" src="/Imagens/filo.jfif" alt="Chania" width="460" height="300"><br><br><br><br>
+      <img class="img-fluid" src="/Imagens/filo.jfif" alt="Chania" width="500" height="400"><br><br><br><br>
     </div>
     
     <div class="container">
